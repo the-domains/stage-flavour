@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[stage flavour]]></title>
         <description><![CDATA[stage flavour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stage-flavour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 16:47:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 18:31:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stage-flavour/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[To apply:]]></title>
+            <description><![CDATA[<article><h1>To apply:</h1><p>Send an email to </p></article>]]></description>
+            <link>https://thegrid.ai/stage-flavour/to-apply/index.html</link>
+            <guid isPermaLink="false">3b648259-d16e-4367-a195-6edbd156ca1d</guid>
+            <pubDate>Tue, 19 Apr 2016 18:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa9a5172-c135-412a-9760-5b38a8790d54.jpg">]]></description>
-            <link>undefinedc822aa40-d8e7-47b7-bedd-f957001658bd/index.html</link>
+            <link>https://thegrid.ai/stage-flavour/c822aa40-d8e7-47b7-bedd-f957001658bd/index.html</link>
             <guid isPermaLink="false">c822aa40-d8e7-47b7-bedd-f957001658bd</guid>
             <pubDate>Tue, 19 Apr 2016 16:47:34 GMT</pubDate>
         </item>
